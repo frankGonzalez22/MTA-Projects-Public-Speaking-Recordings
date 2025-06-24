@@ -1,7 +1,5 @@
-Hello Recruiters!!
-
-Here are some videos that I listed that was mentioned on ym
-
+Hey Recruiters!
+I’ve included some short videos below that demonstrate the key projects and app features listed on my resume.
 
 
 ##  MTA Project Follow-Up App  Tutorial 
