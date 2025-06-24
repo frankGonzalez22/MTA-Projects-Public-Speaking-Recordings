@@ -4,6 +4,9 @@ I’ve included some short videos below that demonstrate the key projects and ap
 
 ##  MTA Project Follow-Up App  Tutorial 
 
+
+-[App Prototype Demo – How the Dashboard Works with Sample Data](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FDashboard%5FProtoType%5FWith%5FSythnetic%5FData%202%2Emp4&ct=1750736910510&or=OWA%2DNT%2DMail&cid=87908e72%2Dbd68%2De37d%2D8da4%2D1ccf66c18efc&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E15f6af2c%2D2f41%2D4f60%2D802a%2Dd521220279e9)
+
 - [How to Create a Project in PowerApps](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FHow%20to%20Add%20new%20Project%202%2Emkv&ct=1750734761840&or=OWA%2DNT%2DMail&cid=1152a2a8%2D0f9a%2D483a%2Da8f4%2D2ab993f7ed8d&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef7423ea3%2Da855%2D4b0d%2D83ce%2D48fb2000dc51)
 
 - [How to Follow Up on a Project in PowerApps](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FHow%20to%20Add%20Follow%20Up%20On%20New%20Project%202%2Emkv&ct=1750734777382&or=OWA%2DNT%2DMail&cid=7d4c773c%2D5db8%2D6e3c%2Dbab0%2Dfcab4475fa5d&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee7c5cf36%2Dd07a%2D4075%2Db6d9%2D44a920951d1f)
