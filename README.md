@@ -1,4 +1,10 @@
-## PowerApps Project Tutorials
+Hello Recruiters!!
+
+Here are some videos that I listed that was mentioned on ym
+
+
+
+##  MTA Project Follow-Up App  Tutorial 
 
 - [How to Create a Project in PowerApps](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FHow%20to%20Add%20new%20Project%202%2Emkv&ct=1750734761840&or=OWA%2DNT%2DMail&cid=1152a2a8%2D0f9a%2D483a%2Da8f4%2D2ab993f7ed8d&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef7423ea3%2Da855%2D4b0d%2D83ce%2D48fb2000dc51)
 
@@ -7,3 +13,5 @@
 - [How to Add a New User & Ensure Project Data Privacy in My PowerApps Tool](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FHow%20to%20Add%20new%20User%20To%20App%202%2Emkv&ct=1750736307761&or=OWA%2DNT%2DMail&cid=b4a4111e%2D93d5%2Dc954%2D6867%2D7564495e4431&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec27a1f46%2Da1eb%2D4d45%2Daa57%2Dadbfd82dd22a)
 
 - [❗❗Critical App Function: Phase Changes Without Redundant Data❗❗](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FHow%20to%20change%20phase%202%2Emkv&ct=1750734789909&or=OWA%2DNT%2DMail&cid=98a5383d%2Da684%2Df8a5%2D5738%2Dbe5053782d3e&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3ddbf269%2D2cc1%2D4441%2D8877%2D42dbb6186ead&mode=Edit)
+
+- [Power-Bi Workshop ](https://www.youtube.com/watch?v=NmnN8AcpsqM)
