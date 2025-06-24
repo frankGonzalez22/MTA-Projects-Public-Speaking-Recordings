@@ -12,4 +12,4 @@ I’ve included some short videos below that demonstrate the key projects and ap
 
 - [❗❗Critical App Function: Phase Changes Without Redundant Data❗❗](https://baruchmailcuny-my.sharepoint.com/personal/frank_gonzalez_baruchmail_cuny_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffrank%5Fgonzalez%5Fbaruchmail%5Fcuny%5Fedu%2FDocuments%2FAttachments%2FHow%20to%20change%20phase%202%2Emkv&ct=1750734789909&or=OWA%2DNT%2DMail&cid=98a5383d%2Da684%2Df8a5%2D5738%2Dbe5053782d3e&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3ddbf269%2D2cc1%2D4441%2D8877%2D42dbb6186ead&mode=Edit)
 
-- [Power-Bi Workshop ](https://www.youtube.com/watch?v=NmnN8AcpsqM)
+- [Power BI Workshop – How I Trained Colleagues on Dashboard Building ](https://www.youtube.com/watch?v=NmnN8AcpsqM)
