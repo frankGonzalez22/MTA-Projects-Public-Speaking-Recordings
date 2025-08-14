@@ -18,3 +18,6 @@ I’ve included some short videos below that demonstrate the key projects and ap
 - [5) Power BI Workshop – How I Trained Colleagues on Dashboard Building ](https://www.youtube.com/watch?v=NmnN8AcpsqM)
 
 - [6) App Prototype Demo – How the Dashboard Works with Sample Data](https://youtu.be/2Eljvyr8n8I)
+
+
+- [7) Presentation for the entire Senior Vice President Office  ](https://www.linkedin.com/posts/frank-gonzalez-623004259_on-my-final-day-at-the-mta-i-finished-my-activity-7214388009960435713-BAXw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-J7nsBTYNv6cFNmftfApu7rnP8Clyct5o)
